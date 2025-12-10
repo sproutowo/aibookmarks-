@@ -37,7 +37,7 @@ const Navbar: React.FC = () => {
             <span className="text-sm font-medium">GitHub</span>
           </a>
           <a 
-            href="https://github.com/sproutowo/AI-Bookmarks" 
+            href="https://microsoftedge.microsoft.com/addons/detail/ai-bookmarks/ejpmfepccmgkgknfhlhdikkdppanlcgh" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-google-text text-white px-5 py-2.5 rounded-full text-sm font-medium shadow-md hover:bg-google-blue hover:shadow-hover hover:-translate-y-0.5 active:scale-95 transition-all duration-300"
