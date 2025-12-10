@@ -41,7 +41,7 @@ const Hero: React.FC = () => {
         <ScrollReveal delay={600}>
           <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-4">
             <a 
-              href="https://github.com/sproutowo/AI-Bookmarks"
+              href="https://microsoftedge.microsoft.com/addons/detail/ai-bookmarks/ejpmfepccmgkgknfhlhdikkdppanlcgh"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto px-8 py-4 bg-google-blue text-white rounded-full font-medium text-lg shadow-lg hover:shadow-hover hover:-translate-y-1 active:scale-95 transition-all duration-300 flex items-center justify-center space-x-2"
